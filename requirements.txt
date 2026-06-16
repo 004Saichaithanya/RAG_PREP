@@ -14,3 +14,8 @@ markdown
 chromadb
 faiss-cpu
 sentence-transformers
+pymupdf
+typesense
+langchain_openai
+langgraph
+langchain
