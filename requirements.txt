@@ -19,3 +19,4 @@ typesense
 langchain_openai
 langgraph
 langchain
+langchain_openrouter 
