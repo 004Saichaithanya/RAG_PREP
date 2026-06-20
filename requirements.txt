@@ -20,3 +20,4 @@ langchain_openai
 langgraph
 langchain
 langchain_openrouter 
+langchain-google-genai
