@@ -24,3 +24,5 @@ langchain-google-genai
 duckduckgo-search
 ddgs
 langchain-experimental
+langsmith
+google-genai
