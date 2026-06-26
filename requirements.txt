@@ -26,3 +26,6 @@ ddgs
 langchain-experimental
 langsmith
 google-genai
+mcp
+langchain-mcp-adapters
+pywin32
